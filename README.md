@@ -1,5 +1,3 @@
-# holman does dotfiles
-
 Your dotfiles are how you personalize your system. These are mine.
 
 I was a little tired of having long alias files and everything strewn about
