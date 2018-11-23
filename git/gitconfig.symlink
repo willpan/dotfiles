@@ -1,4 +1,9 @@
 # Local/private config goes in the include
+[user]
+        name = willpan
+        email = will.w.pan@gmail.com
+[credential]
+        helper = osxkeychain
 [include]
         path = ~/.gitconfig.local
 [hub]
